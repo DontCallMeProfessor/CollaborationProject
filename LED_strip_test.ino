@@ -28,3 +28,4 @@ void loop() {
     }
   }
 }
+// add more code to make machine self aware
